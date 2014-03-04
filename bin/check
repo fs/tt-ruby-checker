@@ -3,4 +3,4 @@
 cd "$(dirname $0)"/..
 cp $RUN lib/string_worker.rb
 
-bin/quality
+bin/safe
