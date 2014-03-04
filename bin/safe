@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+$SAFE = 1
+file_to_check = 'lib/string_worker.rb'
+
+system('bin/rspec')
+system("bin/rails_best_practices #{file_to_check}")
+system("bin/rubocop #{file_to_check}")
