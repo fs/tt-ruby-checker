@@ -13,7 +13,7 @@ bin/safe
 
 ## Credits
 
-Ruby Checker is maintained by [Vladimir Mikhailov](http://github.com/VladimirMikhailov).
+Ruby Checker is maintained by [Dmitry Trager](http://github.com/dmitrytrager).
 It was written by [Flatstack](http://www.flatstack.com) with the help of our
 [contributors](http://github.com/fs/tt-ruby-checker/contributors).
 
